@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2Ip7FrmPEqL7CM/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding thinking" />
 </p>
 
 ---
@@ -18,10 +18,6 @@ where architecture matters as much as accuracy.
 
 Today, as **Founding Engineer at Promptsheon**, I’m building the scaffolding for next‑gen AI products —  
 tools that make LLMs **safer**, **smarter**, and **shippable**.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/IwSG1QKOwDjQk/giphy.gif" width="250"/>
-</p>
 
 ---
 
@@ -46,22 +42,11 @@ tools that make LLMs **safer**, **smarter**, and **shippable**.
 
 ---
 
-### 📌 Featured Stack in Action  
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzkwYTR5a3lxbnBhd2w1bHhkOTMweGdkaGx5czd0OTl0YTY5aTY3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" />
-</p>
-
----
-
 ### 🌍 Let’s Connect  
 
 - 🔗 GitHub: [github.com/akhilesh-jaikumar](https://github.com/akhilesh-jaikumar)  
 - 🔗 LinkedIn: [linkedin.com/in/akhilesh-jaikumar](https://linkedin.com/in/akhilesh-jaikumar)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
-</p>
-
 ---
 
-> _“Prompting is programming. And infrastructure is intelligence.”_ 🧠  
+> _“Prompting is programming. And infrastructure is intelligence.”_  
